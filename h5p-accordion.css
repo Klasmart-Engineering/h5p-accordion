@@ -1,6 +1,9 @@
 .h5p-no-frame > .h5p-accordion {
   border: 1px solid #eee;
 }
+.h5p-accordion {
+  font-family: 'Roboto', sans-serif;
+}
 .h5p-accordion .h5p-panel-title {
   margin: 0;
   padding: 0.8em 0.8em 0.8em 2.25em;
